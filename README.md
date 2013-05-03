@@ -1,0 +1,4 @@
+SenchaApp
+=========
+
+Sencha App POC
